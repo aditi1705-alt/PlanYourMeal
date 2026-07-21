@@ -1,0 +1,2 @@
+PlanYourMeal
+An AI based meal planning and recommendation system built using Python Flask, PostgreSQL and Machine Learning
